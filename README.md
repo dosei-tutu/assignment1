@@ -1,1 +1,4 @@
 # assignment1
+Pitch: Growing up and going to school in the Bronx has made me aware of how certains parts of the Bronx like Hunts Point or Mott Haven have limited healthy food options. These areas are considered food deserts. I’m interested in the correlation between the number of fast food restaurants and grocery stores in the area, especially since Hunts Point is one of the largest distributors of fruits and vegetables. The dichotomy of that reality is very ironic and telling.
+
+I will be looking at data of the numbers of grocery stores in the South Bronx and the number of fast food restaurants in the South Bronx. I also want to look at the data of the demographics as well because the demographics is important to understanding food deserts and how it disproportionately affects black and brown people. Lastly, I will be looking at the health effects these food deserts lead to.
